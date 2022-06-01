@@ -1,0 +1,17 @@
+name: BD_Luis_ParticleTracking
+
+channels:
+    - conda-forge
+    
+dependencies:
+    - python=3.9
+    - pip
+    - numpy
+    - scipy
+    - scikit-image
+    - matplotlib-base
+    - joblib
+    - napari[all]=0.4.15
+    - pyqt=5.12.3
+    - trackpy
+    - pims
