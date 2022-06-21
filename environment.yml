@@ -1,4 +1,4 @@
-name: BD_Luis_ParticleTracking
+name: CENTURI_Luis_ParticleTracking
 
 channels:
     - conda-forge
